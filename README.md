@@ -38,7 +38,8 @@
 
 </div>
 
-
+<hr>
+<hr>
 <div>
   <p align="center">
   <h1> CONTACT ME <h1>
