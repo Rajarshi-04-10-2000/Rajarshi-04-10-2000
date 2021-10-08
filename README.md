@@ -6,7 +6,7 @@
   <p align="center">
   <h1> CONTACT ME <h1>
   <br>
-  <div style="background-color: coral;">
+  <div align="center">
   <a href="https://www.linkedin.com/in/rajarshi-pal-269a921aa" target="_blank">
     <code><img height="60" width="60" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/96/iconmonstr-linkedin-2.png"/></code>
   </a>
