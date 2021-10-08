@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on JAva and FrontEnd projects
 - 📫 How to reach me --please mail me at palrajarshi@gmail.com
 - 
-- You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+- [1.2]:You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
- http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+ [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
 
 <!-- Links to your social media accounts -->
